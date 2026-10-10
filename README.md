@@ -45,4 +45,4 @@ lion-informe/
 ## 👩‍💻 Autora
 
 **Karolina Elizabete**
-[LinkedIn](COLE-AQUI-O-LINK-DO-SEU-LINKEDIN)
+
